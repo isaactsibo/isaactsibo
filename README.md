@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @isaactsibo
-- 👀 I’m interested in Data Science, Cloud Data Architecture, Data Engineering 
-- 🌱 I’m currently learning Data Engineering 
-- 💞️ I’m looking to collaborate on any Data science project 
+
 - 📫 How to reach me ... http://linkedin.com/in/isaac-tsibo-709407145
 
 <!---
